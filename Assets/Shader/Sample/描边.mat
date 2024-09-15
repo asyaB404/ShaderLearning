@@ -37,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 63c424ec7f0a5344eb6aeefc2b390794, type: 3}
+        m_Texture: {fileID: 2800000, guid: 48c7e04fc096b5a4bbda45eb23c48a36, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
